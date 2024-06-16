@@ -99,7 +99,7 @@ use the implict feedback of watches
 
 ### Wide & Deep Model
 
-**Paper : Deep Neural Networks for YouTube Recommendations** 
+**Paper : Wide & Deep Learning for Recommender Systems  https://arxiv.org/abs/1606.07792**
 
 - Recommender system에서는 Memorization과 Generalization 모두 중요하다.
 - Wide Model : Memorization된 값을 통해서 추천 (ex. 아아를 검색한 사용자가 쿠키를 시킨 기록이 많았다면, 아아를 검색한 사용자에게 쿠키를 추천하게 됨) → 기존에 기억된 결과로만 추천
