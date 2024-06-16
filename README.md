@@ -91,7 +91,6 @@ Youtube 비디오 추천을 위한 Deep Neural Network architecutre
 1. Ranking : 그 중에서 순위를 매겨 추천
 - Deep Neural Network를 이용해 비디오와 사용자의 관계를 계산
 
-use the implict feedback of watches
 
 ***Reference***
 
